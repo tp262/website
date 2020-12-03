@@ -1,0 +1,64 @@
+.jumbotron-fluid{
+    text-align: center;
+    background-color: white;
+}
+
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#myCarousel{
+    margin: 50px;
+}
+#main\ cards
+{
+    padding-bottom: 2em;
+}
+#indexcards{
+    margin-bottom: 100px;
+}
+#pictureOfDirector2, #pictureOfDirector1, #pictureOfDirector3
+{
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+#directorsCarousel1, #directorsCarousel2, #directorsCarousel3
+{
+    margin-top: 50px;
+}
+.card-header{
+    font-family: Georgia, "Times New Roman";
+    padding: 50px;
+    height: 300px;
+    width: auto;
+}
+#contact
+{
+    margin-top: 50px;
+    margin-left: 45%;
+}
+#directorsCards .card
+{
+}
+.nav-item{
+    font-family: Georgia;
+}
+.item{
+    width: auto;
+    height: 500px;
+    max-height: 500px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}
